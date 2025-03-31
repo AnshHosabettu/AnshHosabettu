@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ashutosh Singh!
+# 👋 Hey there, I'm Ansh Hosabettu!
 
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (CSE)**
