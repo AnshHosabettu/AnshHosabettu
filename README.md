@@ -7,8 +7,13 @@
 
 ## 💻 Tech Stack
 - **Languages:**
+  - *C*
+  - *C++*
+  - *Python*
+  - *Java*
   - *HTML*
   - *CSS*
+  - *JavaScript*
   - *MySQL (basic)*
 
 ## 🚀 Projects
