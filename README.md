@@ -27,7 +27,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ansh-hosabettu-310a97250/)
-- [Instagram][https://www.instagram.com/anshsalian16/]
+- [Instagram](https://www.instagram.com/anshsalian16/)
 - anshhosabettu515@gmail.com
 
 ## 📄 CV
