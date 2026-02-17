@@ -3,7 +3,7 @@
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (CSE)**
   - *SRM Institute of Technology, Kattankulathur, Chennai*
-  - *Third Year Student*
+  - *Final Year Student*
 
 ## 💻 Tech Stack
 - **Languages:**
