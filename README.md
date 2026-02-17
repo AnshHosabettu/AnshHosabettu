@@ -31,7 +31,7 @@
 - anshhosabettu515@gmail.com
 
 ## 📄 CV
-- [Download CV](https://github.com/AnshHosabettu/ansh-resume/blob/main/RESUME%20ANSH%20HOSABETTU.pdf)
+- [Download CV](https://github.com/AnshHosabettu/ansh-resume/blob/main/ANSH%20RESUME.pdf)
 
 ## 🤝 Open to Collaboration
 - *Eager to collaborate on exciting projects, hackathons, and learning experiences.*
